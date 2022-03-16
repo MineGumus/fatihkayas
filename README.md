@@ -5,11 +5,11 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/D4D03AQH_O4BJRT7qUg/profile-displayphoto-shrink_800_800/0/1643274740385?e=1652918400&v=beta&t=gv6KhrT0n3B0R3zdhl7Dh3VK5KvdWWsny7QsGR88bVM" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
+## <img alt="Coding" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/D4D03AQH_O4BJRT7qUg/profile-displayphoto-shrink_800_800/0/1643274740385?e=1652918400&v=beta&t=gv6KhrT0n3B0R3zdhl7Dh3VK5KvdWWsny7QsGR88bVM" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
 
   
-- 👋 Hi, I’m fatihkayas
-- 👨‍🎓 I’m an aws devops engineer tranie
+- 👋 Hi, I’m Mehmet Fatih Yasar
+- 👨‍🎓 I’m an aws devops engineer 
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
