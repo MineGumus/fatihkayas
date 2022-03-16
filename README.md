@@ -5,7 +5,7 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQFkmiGOd9S9dg/profile-displayphoto-shrink_800_800/0/1641839805384?e=1652918400&v=beta&t=UckwfzJ2JEYBriMqDmApb6oAEiAZq3gJv_nsgE5LqKE" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
+## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/D4D03AQH_O4BJRT7qUg/profile-displayphoto-shrink_800_800/0/1643274740385?e=1652918400&v=beta&t=gv6KhrT0n3B0R3zdhl7Dh3VK5KvdWWsny7QsGR88bVM" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
 
   
 - 👋 Hi, I’m fatihkayas
@@ -25,8 +25,8 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://linkedin.com/in/fatih-kayas-98190267/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://instagram.com/gurharun)
+  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/mehmet-fatih-yasar/)
+ 
  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:seavsdeep@gmail.com)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayas&langs_count=10&theme=cobalt&layout=compact" alt="Harun" /></p>
